@@ -1,6 +1,0 @@
-#define N 10
-#define N_FIXPOINTS_A 256
-#define N_FIXPOINTS_B 256
-#define N_POS 384
-#define N_COMMUTING_MATRICES_A 256
-#define N_COMMUTING_MATRICES_B 256
